@@ -1,4 +1,4 @@
 test.md
-.github/
+.github/workflows/test.yml
 MIT.md
-*.png
+.png
